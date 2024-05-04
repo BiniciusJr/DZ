@@ -1,0 +1,3 @@
+C:\Users\Domagoj\Desktop\DZ2_Vranjes\DZ2_Vranjes\obj\Debug\DZ2_Vranjes.csproj.AssemblyReference.cache
+C:\Users\Domagoj\Desktop\DZ2_Vranjes\DZ2_Vranjes\obj\Debug\DZ2_Vranjes.csproj.SuggestedBindingRedirects.cache
+C:\Users\Domagoj\Desktop\DZ2_Vranjes\DZ2_Vranjes\obj\Debug\DZ2_Vranjes.csproj.CoreCompileInputs.cache
