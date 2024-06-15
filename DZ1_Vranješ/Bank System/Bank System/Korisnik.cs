@@ -19,6 +19,7 @@ namespace Bank_System
             Console.WriteLine("Račun "+BrojRacuna+" je izvršio uplatu");
             BalansRacuna -= iznos;
         }
+        
         public void Nadopuni(float iznos)
         {
             Console.WriteLine("Račun "+BrojRacuna+" je nadopunjen iznosom od "+iznos);
